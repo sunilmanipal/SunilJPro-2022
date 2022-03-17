@@ -1,6 +1,6 @@
 package BasicProgramFirst;
 
-public class FifthProgram {
+public class FifthProgram5 {
 
 	public static void main(String[] args) {
 		int i=5;// 4 bytes 32 bits

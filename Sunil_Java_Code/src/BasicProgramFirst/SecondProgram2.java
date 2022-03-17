@@ -1,6 +1,6 @@
 package BasicProgramFirst;
 
-public class SecondProgram {
+public class SecondProgram2 {
 
 	public static void main(String[] args) {
 

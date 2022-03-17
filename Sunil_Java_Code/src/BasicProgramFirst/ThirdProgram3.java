@@ -1,6 +1,6 @@
 package BasicProgramFirst;
 
-public class ThirdProgram {
+public class ThirdProgram3 {
 
 	public static void main(String[] args) {
 		//args this is called arguments 
